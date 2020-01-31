@@ -7,43 +7,43 @@ const avatar5 = require("../assets/avatar5.png");
 export const data = [
   {
     id: 1,
-    postOwner: "Júlio Alcantara",
+    postOwner: "Julius Alcantara",
     postAvatar: avatar1,
     postDate: "04 Jun 2019",
-    postContent: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+    postContent: "Yo guys, does anyone know if Rocketseat is hiring??",
     comments: [
       {
         id: 1,
-        owner: "Diego Fernandes",
+        owner: "Yara Polana",
         avatar: avatar3,
         content:
-          "A Rocketseat está sempre em busca de novos membros para o time, e geralmente ficamos de olho em quem se destaca no Bootcamp, inclusive 80% do nosso time de devs é composto por alunos do Bootcamp. Além disso, se você tem vontade de ensinar gravando vídeos e criando posts, pode me chamar no Discord! (Sério, me chamem mesmo, esse comentário é real)"
+          "They say they are always looking for new team members and they are checking out who stands out from their Bootcamp, in fact, almost 80% of their dev team is made of their students. Talk to Diego he is always checking out messages from content creators... for real."
       }
     ]
   },
   {
     id: 2,
-    postOwner: "Gabriel Lisboa",
+    postOwner: "Gabriel Betrand",
     postAvatar: avatar2,
     postDate: "04 Jun 2019",
     postContent:
-      "Fala galera, beleza?" +
+      "Hey guys, whassssaaap?" +
       "\n" +
-      "Estou fazendo o Bootcamp GoStack da Rocketseat e está sendo muito massa! Alguém mais aí fazendo, comenta na publicação para trocarmos uma ideia.",
+      "I am working on the Bootcamp, amazing experience, and I am searching for classmates who are willing to move things forward or just chat about their experience.",
     comments: [
       {
         id: 1,
-        owner: "Clara Lisboa",
+        owner: "Clara Lisbon",
         avatar: avatar4,
         content:
-          "Também estou fazendo o Bootcamp e estou adorando! Estou no terceiro módulo sobre Node e já tenho minha API dos desafios contruída!"
+          "Hey I am doing the bootcamp! I am already in the third module about Node and managed to build all my API challenges wooo hoooo! 😄"
       },
       {
         id: 2,
         owner: "Cézar Toledo",
         avatar: avatar5,
         content:
-          "Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
+          "Noo wayyy! I am thinking of joining in their next class to see what this is all about. I heard the students come out with this amazing super dev power, hahahah!"
       }
     ]
   }
