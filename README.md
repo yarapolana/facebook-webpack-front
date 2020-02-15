@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://res.cloudinary.com/yarapolana/image/upload/v1580500758/fb-logo-red_vcyq9v.png" width="300" />
+  <img align="center" src="https://res.cloudinary.com/yarapolana/image/upload/v1580500758/desafio-4-facebook-webpack/fb-logo-red_vcyq9v.png" width="300" />
 </p>
 
 <h1 align="center">📱Facebook Webfront using webpack</h1>
