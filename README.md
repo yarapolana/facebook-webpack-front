@@ -12,7 +12,7 @@
   <a href="https://yarapolana.com"><img src="https://img.shields.io/badge/createdby-yarapolana-red.svg" ></a>
 </p>
 
-<img src="https://res.cloudinary.com/yarapolana/image/upload/v1580500850/fb-webpack-page_i5w30c.png" >
+<img src="https://res.cloudinary.com/yarapolana/image/upload/v1580500850/desafio-4-facebook-webpack/fb-webpack-page_i5w30c.png" >
 
 <h2>🚀Description </h2>
 <p id="description">
